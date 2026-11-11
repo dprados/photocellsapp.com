@@ -1,0 +1,182 @@
+{
+  "lang_name": "Nederlands",
+  "title": "Photocells · Je telefoon is een lichtsluis",
+  "desc": "Automatische tijdmeting tot op de milliseconde met de camera van je telefoon. iPhone en Android in dezelfde sessie, zonder lichtsluizen te kopen.",
+  "eyebrow": "Tijdmeting met de camera van je telefoon",
+  "h1": [
+    "Je telefoon",
+    "is een",
+    "lichtsluis."
+  ],
+  "lead": "Photocells ziet het moment waarop een atleet de lijn passeert en legt de tijd vast tot op de milliseconde. Geen stopwatch, niet tikken en geen enkele kabel om te kopen.",
+  "badge_as": "img/badges/app-store-en.svg",
+  "badge_gp": "img/badges/google-play-en.png",
+  "as_alt": "Download in de App Store",
+  "gp_alt": "Ontdek het op Google Play",
+  "soon": "Binnenkort",
+  "under_cta": "Meedoen aan een sessie is gratis · Pro met 7 dagen gratis proberen",
+  "demo_pill": "DETECTOR ACTIEF",
+  "demo_label": "LAATSTE RONDE",
+  "demo_cut": "PASSAGE",
+  "stats": [
+    [
+      "€ 0",
+      "aan nieuwe hardware"
+    ],
+    [
+      "1/1000 s",
+      "resolutie"
+    ],
+    [
+      "∞",
+      "lichtsluizen per sessie"
+    ],
+    [
+      "iOS + Android",
+      "in één sessie"
+    ]
+  ],
+  "own_k": "Iedereen heeft een telefoon",
+  "own_h": "De hardware zit al in je zak.",
+  "own_p": "Elke trainer, elke atleet en elke ouder op de tribune heeft een telefoon met een supersnelle camera. Photocells maakt er een lichtsluis van: zet hem naast de baan, lijn de rode lijn uit met het passeerpunt en gaan.",
+  "own_points": [
+    "Een camera met 60–120 beelden per seconde",
+    "Een scherm om elke tijd direct te zien",
+    "Een verbinding om alle lichtsluizen te synchroniseren"
+  ],
+  "money_k": "Echt besparen",
+  "money_h": "Professionele tijdmeting zonder te betalen voor lichtsluizen.",
+  "money_p": "Een draadloos lichtsluissysteem kost honderden tot duizenden euro’s per paar, en elke extra lichtsluis is weer een nieuwe aankoop. Met Photocells is elke telefoon die jullie hebben een extra lichtsluis.",
+  "old_t": "Traditionele lichtsluizen",
+  "old": [
+    "Honderden tot duizenden euro’s per paar",
+    "Statieven, reflectoren, accu’s en een koffer",
+    "Elke extra lichtsluis, weer een aankoop",
+    "Eén onderdeel kapot, training afgelast"
+  ],
+  "new_t": "Photocells",
+  "new": [
+    "De telefoons die jullie al hebben",
+    "Pro: € 5,99/maand of € 44,99/jaar, 7 dagen gratis",
+    "Meedoen aan een sessie is gratis",
+    "Nog een lichtsluis? Nog een telefoon"
+  ],
+  "bar_old": "Traditionele set",
+  "bar_new": "Photocells Pro · 1 jaar",
+  "bar_old_v": "honderden tot duizenden €",
+  "bar_new_v": "€ 44,99",
+  "mix_k": "Cross-platform",
+  "mix_h": "iPhone en Android in dezelfde race.",
+  "mix_p": "Maak de sessie aan op een iPhone en doe mee met een Android, of andersom. Met een 4-cijferige code wordt elke telefoon een lichtsluis: start, tussentijden en finish, realtime gesynchroniseerd.",
+  "gates": [
+    [
+      "START",
+      "iPhone",
+      "0:00,000"
+    ],
+    [
+      "30 M",
+      "Android",
+      "0:03,940"
+    ],
+    [
+      "FINISH",
+      "iPhone",
+      "0:07,286"
+    ]
+  ],
+  "photo_k": "Een foto van elke passage",
+  "photo_h": "Zie het exacte moment van de passage.",
+  "photo_p": "Bij elke passage laat Photocells je het beeld zien met de lijn erop. Zo weet je meteen of het de atleet was… of een schaduw. De foto’s staan alleen op je telefoon zolang de sessie en het overzicht open zijn.",
+  "how_k": "Zo werkt het",
+  "how_h": "Drie stappen, dan lopen.",
+  "how": [
+    [
+      "Plaatsen",
+      "Zet de telefoon naast de baan, op heuphoogte, en lijn de rode lijn uit met het passeerpunt."
+    ],
+    [
+      "Starten",
+      "Aftellen met piepjes of starten bij de eerste passage. De detector schakelt zichzelf in."
+    ],
+    [
+      "Lopen",
+      "Elke passage wordt tot op de milliseconde vastgelegd: rondes, tussentijden, beste tijd en snelheid."
+    ]
+  ],
+  "feat_k": "Alles wat je nodig hebt",
+  "feat_h": "Gemaakt om te trainen, niet om in te stellen.",
+  "feats": [
+    [
+      "Circulair of lineair",
+      "Rondes met één telefoon, of van A naar B met meerdere."
+    ],
+    [
+      "Snelheid",
+      "Vul de afstand in en zie km/h, mph of m/s per ronde en segment."
+    ],
+    [
+      "Geschiedenis per atleet",
+      "Voeg atleten en notities toe, filter en volg hun progressie."
+    ],
+    [
+      "CSV en PDF",
+      "Exporteer elke sessie voor je spreadsheet of je club."
+    ],
+    [
+      "Kopie in iCloud",
+      "Je geschiedenis, veilig in je eigen account. Niets op onze servers."
+    ],
+    [
+      "Privé",
+      "Geen account, geen advertenties, geen tracking. Het camerabeeld wordt op de telefoon geanalyseerd."
+    ]
+  ],
+  "shots_k": "De app",
+  "shots_h": "Gemaakt voor de baan.",
+  "price_k": "Prijzen",
+  "price_h": "Minder dan een paar hardloopschoenen. Per jaar.",
+  "plans": [
+    [
+      "Per maand",
+      "€ 5,99",
+      "/maand"
+    ],
+    [
+      "Per jaar",
+      "€ 44,99",
+      "/jaar"
+    ]
+  ],
+  "price_note": "7 dagen gratis bij beide abonnementen. Meedoen aan een sessie is gratis voor elk apparaat.",
+  "save": "Bespaar 40%",
+  "final_h": "Pak je telefoon. Start de tijd.",
+  "nav": [
+    "Support",
+    "Privacy",
+    "Voorwaarden"
+  ],
+  "foot": "Gemaakt door Diego Prados, onafhankelijk ontwikkelaar. © 2026 Diego Prados. Apple, iPhone en App Store zijn handelsmerken van Apple Inc. Google Play en het Google Play-logo zijn handelsmerken van Google LLC.",
+  "shot_lang": "nl",
+  "page_foot": "Gemaakt door Diego Prados, onafhankelijk ontwikkelaar. © 2026 Diego Prados. Apple, iPhone en App Store zijn handelsmerken van Apple Inc. Google Play is een handelsmerk van Google LLC.",
+  "privacy": {
+    "title": "Privacybeleid – Photocells",
+    "desc": "Wat Photocells met je gegevens doet: camerabeelden verlaten het apparaat nooit, geen account, geen advertenties, geen tracking.",
+    "h1": "Privacybeleid",
+    "body": "<p class=\"lead\">Kort gezegd: Photocells heeft geen account, geen advertenties en geen tracking. Het camerabeeld verlaat je telefoon nooit.</p>\n<h2>Camera</h2><p>Photocells gebruikt de camera om te detecteren wanneer iemand de lijn passeert. De beelden worden in het geheugen van je apparaat geanalyseerd. Zodat je elke passage kunt controleren, bewaart de app het beeld van elke passage in het geheugen zolang de sessie en het overzicht ervan open zijn, en verwijdert het zodra je ze verlaat. Er wordt geen foto of video op je apparaat, in je geschiedenis of in iCloud opgeslagen, en ook nergens naartoe gestuurd.</p>\n<h2>Sessies en onze server</h2><p>Om de telefoons van een sessie te synchroniseren, gebruikt Photocells onze server (photocellsapp.com). Die bewaart wat een sessie nodig heeft om te werken: het type, de afstanden die je invult, de deelnemende apparaten en de passagetijden. Apparaten worden herkend aan een willekeurige token die de app aanmaakt; die is niet gekoppeld aan je naam, e-mailadres, Apple Account of Google-account. Gegevens worden versleuteld verstuurd (HTTPS/WSS). Je kunt ons vragen de sessies van je apparaat te verwijderen door te mailen naar <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>.</p>\n<h2>Atleten en opmerkingen</h2><p>De namen van atleten en de opmerkingen die je aan een sessie toevoegt, worden alleen op je apparaat bewaard. Ze worden nooit naar onze server gestuurd. Op de iPhone wordt je geschiedenis gekopieerd naar je privé-iCloud-database (iCloud van Apple, onder je account), zodat die beschikbaar is op je andere apparaten en na een herinstallatie; je kunt dit uitzetten in iOS-instellingen → je naam → iCloud. Op Android zit het in de back-up van je telefoon als je back-ups hebt ingeschakeld.</p>\n<h2>Aankopen</h2><p>Abonnementen worden verwerkt door Apple (App Store) of Google (Google Play). Wij ontvangen je betaalgegevens niet; de app controleert alleen of er een actief abonnement is.</p>\n<h2>Wat we niet doen</h2><p>Geen analyse- of advertentie-SDK’s, geen tracking via apps of websites, geen locatie, geen contacten, geen verkoop van gegevens.</p>\n<h2>Kinderen</h2><p>Photocells is een sporttool voor een algemeen publiek en verzamelt niet bewust persoonsgegevens van kinderen.</p>\n<h2>Contact</h2><p>Diego Prados, onafhankelijk ontwikkelaar · <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Laatst bijgewerkt: 11 november 2026.</p>"
+  },
+  "support": {
+    "title": "Support – Photocells",
+    "desc": "Hulp bij Photocells: de camera plaatsen, sessies met meerdere telefoons, abonnementen en aankopen herstellen.",
+    "h1": "Support",
+    "body": "<p class=\"lead\">Staat je antwoord er niet bij? Mail naar <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Je krijgt antwoord van een echt mens.</p>\n<h2>Betrouwbare tijden</h2>\n<details><summary>Waar zet ik de telefoon neer?</summary><p>Naast de baan, liefst op heuphoogte, dwars op de baan gericht. Lijn de rode lijn uit met het passeerpunt. Houd de achtergrond rustig (vermijd bomen die bewegen in de wind of verkeer vlak achter de lijn).</p></details>\n<details><summary>Zon en schaduw</summary><p>De belichting wordt vastgezet als de sessie start. Zet de lijn niet waar het licht sterk wisselt (van fel zonlicht naar diepe schaduw). Controleer voordat de atleet start of de indicator boven in de sessie groen DETECTOR ACTIEF toont.</p></details>\n<details><summary>Een passage is gemist of er is er een te veel</summary><p>Open de instellingen van de sessie en gebruik ‘Laatste passage schrappen’ om er een te veel te verwijderen. Controleer of de telefoon stabiel staat en of de detectorindicator groen is (DETECTOR ACTIEF) voordat de atleet aankomt.</p></details>\n<h2>Sessies</h2>\n<details><summary>Hoe werken meerdere telefoons samen?</summary><p>Maak een sessie aan op één telefoon en deel de 4-cijferige code. De anderen tikken op MEEDOEN, voeren de code in en kiezen hun positie. Tijden worden via onze server gesynchroniseerd, dus elke telefoon heeft een internetverbinding nodig.</p></details>\n<details><summary>Atleten en opmerkingen</summary><p>Voeg atleten toe bij het aanmaken van een sessie of later vanuit het overzicht, gescheiden door komma’s. Tik in Geschiedenis op een atleet om alleen diens sessies te zien. Deze informatie blijft op je apparaten.</p></details>\n<h2>Abonnement</h2>\n<details><summary>Wat is gratis?</summary><p>Meedoen aan een sessie is gratis. Voor het aanmaken van sessies heb je Photocells Pro nodig (7 dagen gratis proberen, daarna per maand of per jaar).</p></details>\n<details><summary>Een aankoop herstellen</summary><p>Open Instellingen in de app en tik op Herstellen, ingelogd met hetzelfde Apple Account of Google-account waarmee je je hebt geabonneerd.</p></details>\n<details><summary>Beheren of opzeggen</summary><p>iPhone: Instellingen-app → je naam → Abonnementen. Android: Google Play → Profiel → Betalingen en abonnementen → Abonnementen. Zeg minstens 24 uur voor de verlenging op.</p></details>"
+  },
+  "terms": {
+    "title": "Gebruiksvoorwaarden – Photocells",
+    "desc": "Gebruiksvoorwaarden van de app Photocells en het abonnement Photocells Pro.",
+    "h1": "Gebruiksvoorwaarden",
+    "body": "<p>Door Photocells te gebruiken ga je akkoord met deze voorwaarden. Op de iPhone geldt daarnaast de <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">standaard licentieovereenkomst voor eindgebruikers van gelicentieerde apps</a> van Apple.</p>\n<h2>De dienst</h2><p>Photocells meet tijden met de camera van het apparaat en synchroniseert sessies via onze server. Tijden hangen af van het apparaat, de plaatsing, het licht en de omgeving; ze zijn bedoeld voor training en niet gecertificeerd voor officiële wedstrijden. We doen ons best om de dienst beschikbaar te houden, maar kunnen niet garanderen dat die zonder onderbrekingen werkt.</p>\n<h2>Photocells Pro</h2><p>Voor het aanmaken van sessies is een automatisch verlengend abonnement (per maand of per jaar) nodig, met 7 dagen gratis proberen voor nieuwe abonnees. De betaling wordt in rekening gebracht via je Apple Account of Google Play-account wanneer je de aankoop bevestigt (of wanneer de proefperiode afloopt). Het abonnement wordt automatisch verlengd, tenzij je het minstens 24 uur voor het einde van de lopende periode opzegt. Je kunt het beheren of opzeggen in de instellingen van je App Store- of Google Play-account. Terugbetalingen worden door Apple of Google afgehandeld volgens hun beleid.</p>\n<h2>Aanvaardbaar gebruik</h2><p>Misbruik de dienst niet, verstoor geen sessies van andere gebruikers en probeer geen toegang te krijgen tot gegevens die niet van jou zijn.</p>\n<h2>Aansprakelijkheid</h2><p>De app wordt geleverd ‘zoals hij is’. Voor zover de wet dat toestaat, zijn we niet aansprakelijk voor indirecte schade of voor beslissingen die op basis van de gemeten tijden worden genomen.</p>\n<h2>Wijzigingen en contact</h2><p>We kunnen deze voorwaarden bijwerken; de geldende versie staat altijd op deze pagina. Vragen: <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Laatst bijgewerkt: 11 november 2026.</p>"
+  },
+  "lang_label": "Taal",
+  "price_shown": true
+}

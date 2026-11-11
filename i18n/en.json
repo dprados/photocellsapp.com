@@ -1,0 +1,182 @@
+{
+  "lang_name": "English",
+  "title": "Photocells · Your phone is a timing gate",
+  "desc": "Automatic timing to the millisecond with your phone's camera. iPhone and Android in the same session, no timing gates to buy.",
+  "eyebrow": "Timing with your phone's camera",
+  "h1": [
+    "Your phone",
+    "is a timing",
+    "gate."
+  ],
+  "lead": "Photocells sees the instant an athlete crosses the line and records the time to the millisecond. No stopwatch, no tapping, and not a single cable to buy.",
+  "badge_as": "img/badges/app-store-en.svg",
+  "badge_gp": "img/badges/google-play-en.png",
+  "as_alt": "Download on the App Store",
+  "gp_alt": "Get it on Google Play",
+  "soon": "Coming soon",
+  "under_cta": "Joining a session is free · Pro with a 7-day free trial",
+  "demo_pill": "DETECTOR ACTIVE",
+  "demo_label": "LAST LAP",
+  "demo_cut": "CUT",
+  "stats": [
+    [
+      "$0",
+      "in new hardware"
+    ],
+    [
+      "1/1000 s",
+      "resolution"
+    ],
+    [
+      "∞",
+      "gates per session"
+    ],
+    [
+      "iOS + Android",
+      "in one session"
+    ]
+  ],
+  "own_k": "Everyone has a phone",
+  "own_h": "The hardware is already in your pocket.",
+  "own_p": "Every coach, every athlete and every parent in the stands carries a phone with a very fast camera. Photocells turns it into a timing gate: stand it at the side of the track, line up the red line with the crossing, and go.",
+  "own_points": [
+    "A camera running at 60–120 frames per second",
+    "A screen to see every time instantly",
+    "A connection to sync every gate"
+  ],
+  "money_k": "Real savings",
+  "money_h": "Pro timing gates without paying for timing gates.",
+  "money_p": "A wireless timing gate system costs hundreds or thousands for every pair of gates, and every extra gate is another purchase. With Photocells, every phone you have is one more gate.",
+  "old_t": "Traditional timing gates",
+  "old": [
+    "Hundreds or thousands per pair of gates",
+    "Tripods, reflectors, batteries and a case",
+    "Every extra gate, another purchase",
+    "One broken part, session cancelled"
+  ],
+  "new_t": "Photocells",
+  "new": [
+    "The phones you already have",
+    "Pro: $5.99/month or $44.99/year, 7 days free",
+    "Joining a session is free",
+    "Need another gate? Add another phone"
+  ],
+  "bar_old": "Traditional kit",
+  "bar_new": "Photocells Pro · 1 year",
+  "bar_old_v": "hundreds or thousands",
+  "bar_new_v": "$44.99",
+  "mix_k": "Cross-platform",
+  "mix_h": "iPhone and Android in the same race.",
+  "mix_p": "Create the session on an iPhone and join from an Android, or the other way round. With a 4-digit code every phone becomes a gate: start, splits and finish, synced in real time.",
+  "gates": [
+    [
+      "START",
+      "iPhone",
+      "0:00.000"
+    ],
+    [
+      "30 M",
+      "Android",
+      "0:03.940"
+    ],
+    [
+      "FINISH",
+      "iPhone",
+      "0:07.286"
+    ]
+  ],
+  "photo_k": "A photo of every crossing",
+  "photo_h": "See the exact moment of the cut.",
+  "photo_p": "On every cut, Photocells shows you the frame of the crossing with the line marked. You know at once whether it was the athlete… or a shadow. Photos live only on your phone while the session and its summary are open.",
+  "how_k": "How it works",
+  "how_h": "Three steps, then run.",
+  "how": [
+    [
+      "Place",
+      "Stand the phone at the side of the track, at hip height, and line up the red line with the crossing."
+    ],
+    [
+      "Start",
+      "A countdown with beeps, or start on the first crossing. The detector arms itself."
+    ],
+    [
+      "Run",
+      "Every crossing is recorded to the millisecond: laps, splits, best run and speed."
+    ]
+  ],
+  "feat_k": "Everything you need",
+  "feat_h": "Made for training, not for setting up.",
+  "feats": [
+    [
+      "Circular or linear",
+      "Laps with a single phone, or A-to-B runs with several."
+    ],
+    [
+      "Speed",
+      "Enter the distance to see km/h, mph or m/s per lap and segment."
+    ],
+    [
+      "History by athlete",
+      "Add athletes and notes, filter, and follow their progress."
+    ],
+    [
+      "CSV and PDF",
+      "Export any session for your spreadsheet or your club."
+    ],
+    [
+      "iCloud copy",
+      "Your history, safe in your own account. Nothing on our servers."
+    ],
+    [
+      "Private",
+      "No account, no ads, no tracking. The camera is analysed on the phone."
+    ]
+  ],
+  "shots_k": "The app",
+  "shots_h": "Built for the track.",
+  "price_k": "Pricing",
+  "price_h": "Less than a pair of running shoes. Per year.",
+  "plans": [
+    [
+      "Monthly",
+      "$5.99",
+      "/month"
+    ],
+    [
+      "Yearly",
+      "$44.99",
+      "/year"
+    ]
+  ],
+  "price_note": "7 days free on both plans. Joining a session is free for every device.",
+  "save": "Save 40%",
+  "final_h": "Take out your phone. Start timing.",
+  "nav": [
+    "Support",
+    "Privacy",
+    "Terms"
+  ],
+  "foot": "Made by Diego Prados, an independent developer. © 2026 Diego Prados. Apple, iPhone and App Store are trademarks of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.",
+  "shot_lang": "en",
+  "page_foot": "Made by Diego Prados, an independent developer. © 2026 Diego Prados. Apple, iPhone and App Store are trademarks of Apple Inc. Google Play is a trademark of Google LLC.",
+  "privacy": {
+    "title": "Privacy policy – Photocells",
+    "desc": "What Photocells does with your data: camera frames never leave the device, no account, no ads, no tracking.",
+    "h1": "Privacy policy",
+    "body": "<p class=\"lead\">Short version: Photocells has no account, no ads and no tracking. The camera image never leaves your phone.</p>\n<h2>Camera</h2><p>Photocells uses the camera to detect when someone crosses the line. Frames are analysed in memory on your device. To let you check each crossing, the app keeps the frame of each crossing in memory while the session and its summary are open, and discards it when you leave them. No photo or video is saved to your device, your history or iCloud, or sent anywhere.</p>\n<h2>Sessions and our server</h2><p>To synchronise the phones of a session, Photocells uses our server (photocellsapp.com). It stores what a session needs to work: its type, the distances you enter, the participating devices and the crossing times. Devices are identified with a random token created by the app; it is not linked to your name, email, Apple Account or Google account. Data travels encrypted (HTTPS/WSS). You can ask us to delete the sessions of your device by writing to <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>.</p>\n<h2>Athletes and comments</h2><p>The athlete names and comments you add to a session are stored only on your device. They are never sent to our server. On iPhone, your history is copied to your private iCloud database (Apple's iCloud, under your account) so it is available on your other devices and after a reinstall; you can turn this off in iOS Settings → your name → iCloud. On Android, it is included in your phone's backup if you have backups enabled.</p>\n<h2>Purchases</h2><p>Subscriptions are processed by Apple (App Store) or Google (Google Play). We don't receive your payment details; the app only checks whether a subscription is active.</p>\n<h2>What we don't do</h2><p>No analytics or advertising SDKs, no tracking across apps or websites, no location, no contacts, no sale of data.</p>\n<h2>Children</h2><p>Photocells is a general-audience sports tool and does not knowingly collect personal data from children.</p>\n<h2>Contact</h2><p>Diego Prados, independent developer · <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Last updated: 11 November 2026.</p>"
+  },
+  "support": {
+    "title": "Support – Photocells",
+    "desc": "Help with Photocells: setting up the camera, sessions with several phones, subscriptions and restoring purchases.",
+    "h1": "Support",
+    "body": "<p class=\"lead\">Can't find your answer? Write to <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. A real person replies.</p>\n<h2>Getting good times</h2>\n<details><summary>Where should I put the phone?</summary><p>At the side of the lane, at hip height if possible, pointing across the track. Line up the red line with the crossing. Keep the background still (avoid trees moving in the wind or passing traffic right behind the line).</p></details>\n<details><summary>Sun and shade</summary><p>Exposure is locked when the session starts. Avoid placing the line where the light changes a lot (from strong sun to deep shade). Before the athlete starts, check that the indicator at the top of the session shows DETECTOR ACTIVO in green.</p></details>\n<details><summary>A crossing was missed or an extra one appeared</summary><p>Open the session settings and use \"Discard last cut\" for an extra one. Check that the phone is stable and the detector indicator is green (DETECTOR ACTIVO) before the athlete arrives.</p></details>\n<h2>Sessions</h2>\n<details><summary>How do several phones work together?</summary><p>Create a session on one phone and share the 4-digit code. The others tap JOIN, enter the code and choose their position. Times are synchronised through our server, so every phone needs an internet connection.</p></details>\n<details><summary>Athletes and comments</summary><p>Add athletes when you create a session or later from its summary, separated by commas. In History, tap an athlete to see only their sessions. This information stays on your devices.</p></details>\n<h2>Subscription</h2>\n<details><summary>What is free?</summary><p>Joining a session is free. Creating sessions requires Photocells Pro (7-day free trial, then monthly or yearly).</p></details>\n<details><summary>Restore a purchase</summary><p>Open Settings in the app and tap Restore, signed in with the same Apple Account or Google account you used to subscribe.</p></details>\n<details><summary>Manage or cancel</summary><p>iPhone: Settings app → your name → Subscriptions. Android: Google Play → Profile → Payments and subscriptions → Subscriptions. Cancel at least 24 hours before renewal.</p></details>"
+  },
+  "terms": {
+    "title": "Terms of use – Photocells",
+    "desc": "Terms of use of the Photocells app and the Photocells Pro subscription.",
+    "h1": "Terms of use",
+    "body": "<p>By using Photocells you agree to these terms. On iPhone, Apple's <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Standard Licensed Application End User License Agreement</a> also applies.</p>\n<h2>The service</h2><p>Photocells measures times with the device camera and synchronises sessions through our server. Times depend on the device, its position, the light and the scene; they are meant for training and are not certified for official competition. We try to keep the service available but can't guarantee it will be uninterrupted.</p>\n<h2>Photocells Pro</h2><p>Creating sessions requires an auto-renewing subscription (monthly or yearly) with a 7-day free trial for new subscribers. Payment is charged to your Apple Account or Google Play account when you confirm the purchase (or when the trial ends). It renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel it in your App Store or Google Play account settings. Refunds are handled by Apple or Google under their policies.</p>\n<h2>Acceptable use</h2><p>Don't misuse the service, interfere with other users' sessions or try to access data that isn't yours.</p>\n<h2>Liability</h2><p>The app is provided \"as is\". To the extent permitted by law, we are not liable for indirect damages or for decisions made from the measured times.</p>\n<h2>Changes and contact</h2><p>We may update these terms; the current version is always on this page. Questions: <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Last updated: 11 November 2026.</p>"
+  },
+  "lang_label": "Language",
+  "price_shown": true
+}

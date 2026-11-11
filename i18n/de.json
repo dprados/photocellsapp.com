@@ -1,0 +1,182 @@
+{
+  "lang_name": "Deutsch",
+  "title": "Photocells · Dein Handy ist eine Lichtschranke",
+  "desc": "Automatische Zeitmessung auf die Tausendstelsekunde mit der Kamera deines Handys. iPhone und Android in derselben Session, ohne Lichtschranken kaufen zu müssen.",
+  "eyebrow": "Zeitmessung mit der Handykamera",
+  "h1": [
+    "Dein Handy",
+    "ist eine",
+    "Lichtschranke."
+  ],
+  "lead": "Photocells erkennt den Moment, in dem der Athlet die Linie überquert, und speichert die Zeit auf die Tausendstelsekunde genau. Keine Stoppuhr, kein Tippen und kein einziges Kabel zu kaufen.",
+  "badge_as": "img/badges/app-store-en.svg",
+  "badge_gp": "img/badges/google-play-en.png",
+  "as_alt": "Laden im App Store",
+  "gp_alt": "Jetzt bei Google Play",
+  "soon": "Demnächst",
+  "under_cta": "Einer Session beitreten ist kostenlos · Pro mit 7 Tagen Gratis-Test",
+  "demo_pill": "DETEKTOR AKTIV",
+  "demo_label": "LETZTE RUNDE",
+  "demo_cut": "DURCHGANG",
+  "stats": [
+    [
+      "0 €",
+      "für neue Hardware"
+    ],
+    [
+      "1/1000 s",
+      "Auflösung"
+    ],
+    [
+      "∞",
+      "Lichtschranken pro Session"
+    ],
+    [
+      "iOS + Android",
+      "in einer Session"
+    ]
+  ],
+  "own_k": "Ein Handy hat jeder",
+  "own_h": "Die Hardware steckt schon in deiner Tasche.",
+  "own_p": "Jeder Trainer, jede Athletin und alle Eltern auf der Tribüne haben ein Handy mit einer extrem schnellen Kamera. Photocells macht daraus eine Lichtschranke: seitlich an die Bahn stellen, die rote Linie auf den Durchgang ausrichten und los.",
+  "own_points": [
+    "Eine Kamera mit 60–120 Bildern pro Sekunde",
+    "Ein Display, das jede Zeit sofort zeigt",
+    "Eine Verbindung, die alle Lichtschranken synchronisiert"
+  ],
+  "money_k": "Echt sparen",
+  "money_h": "Profi-Zeitmessung, ohne Lichtschranken zu bezahlen.",
+  "money_p": "Ein kabelloses Lichtschranken-System kostet Hunderte oder Tausende Euro pro Paar, und jede zusätzliche Lichtschranke kostet wieder extra. Mit Photocells ist jedes Handy, das ihr habt, eine Lichtschranke mehr.",
+  "old_t": "Klassische Lichtschranken",
+  "old": [
+    "Hunderte oder Tausende Euro pro Paar",
+    "Stative, Reflektoren, Akkus und Koffer",
+    "Jede weitere Lichtschranke kostet extra",
+    "Ein Teil kaputt, Training abgesagt"
+  ],
+  "new_t": "Photocells",
+  "new": [
+    "Die Handys, die ihr schon habt",
+    "Pro: 5,99 €/Monat oder 44,99 €/Jahr, 7 Tage gratis",
+    "Einer Session beitreten ist kostenlos",
+    "Noch eine Lichtschranke? Noch ein Handy"
+  ],
+  "bar_old": "Klassisches Set",
+  "bar_new": "Photocells Pro · 1 Jahr",
+  "bar_old_v": "Hunderte oder Tausende €",
+  "bar_new_v": "44,99 €",
+  "mix_k": "Plattformübergreifend",
+  "mix_h": "iPhone und Android im selben Lauf.",
+  "mix_p": "Erstelle die Session auf einem iPhone und tritt mit einem Android-Handy bei, oder umgekehrt. Mit einem 4-stelligen Code wird jedes Handy zur Lichtschranke: Start, Zwischenzeiten und Ziel, in Echtzeit synchronisiert.",
+  "gates": [
+    [
+      "START",
+      "iPhone",
+      "0:00,000"
+    ],
+    [
+      "30 M",
+      "Android",
+      "0:03,940"
+    ],
+    [
+      "ZIEL",
+      "iPhone",
+      "0:07,286"
+    ]
+  ],
+  "photo_k": "Ein Foto von jedem Durchgang",
+  "photo_h": "Sieh den exakten Moment des Durchgangs.",
+  "photo_p": "Bei jedem Durchgang zeigt dir Photocells das Bild mit eingezeichneter Linie. So weißt du sofort, ob es der Athlet war… oder ein Schatten. Die Fotos bleiben nur auf deinem Handy, solange die Session und ihre Übersicht geöffnet sind.",
+  "how_k": "So funktioniert’s",
+  "how_h": "Drei Schritte, dann laufen.",
+  "how": [
+    [
+      "Aufstellen",
+      "Stell das Handy seitlich an die Bahn, auf Hüfthöhe, und richte die rote Linie auf den Durchgang aus."
+    ],
+    [
+      "Starten",
+      "Countdown mit Pieptönen oder Start beim ersten Durchgang. Der Detektor schaltet sich von selbst scharf."
+    ],
+    [
+      "Laufen",
+      "Jeder Durchgang wird auf die Tausendstelsekunde erfasst: Runden, Zwischenzeiten, Bestzeit und Tempo."
+    ]
+  ],
+  "feat_k": "Alles, was du brauchst",
+  "feat_h": "Gemacht zum Trainieren, nicht zum Einrichten.",
+  "feats": [
+    [
+      "Rundkurs oder linear",
+      "Runden mit nur einem Handy oder Strecken von A nach B mit mehreren."
+    ],
+    [
+      "Geschwindigkeit",
+      "Gib die Distanz ein und sieh km/h, mph oder m/s pro Runde und Abschnitt."
+    ],
+    [
+      "Verlauf pro Athlet",
+      "Füge Athleten und Notizen hinzu, filtere und verfolge den Fortschritt."
+    ],
+    [
+      "CSV und PDF",
+      "Exportiere jede Session für deine Tabelle oder deinen Verein."
+    ],
+    [
+      "Kopie in iCloud",
+      "Dein Verlauf, sicher in deinem eigenen Account. Nichts auf unseren Servern."
+    ],
+    [
+      "Privat",
+      "Kein Konto, keine Werbung, kein Tracking. Das Kamerabild wird auf dem Handy analysiert."
+    ]
+  ],
+  "shots_k": "Die App",
+  "shots_h": "Gebaut für die Bahn.",
+  "price_k": "Preise",
+  "price_h": "Weniger als ein Paar Laufschuhe. Pro Jahr.",
+  "plans": [
+    [
+      "Monatlich",
+      "5,99 €",
+      "/Monat"
+    ],
+    [
+      "Jährlich",
+      "44,99 €",
+      "/Jahr"
+    ]
+  ],
+  "price_note": "7 Tage gratis bei beiden Abos. Einer Session beizutreten ist für jedes Gerät kostenlos.",
+  "save": "Spare 40 %",
+  "final_h": "Handy raus. Zeit läuft.",
+  "nav": [
+    "Support",
+    "Datenschutz",
+    "Nutzungsbedingungen"
+  ],
+  "foot": "Entwickelt von Diego Prados, unabhängiger Entwickler. © 2026 Diego Prados. Apple, iPhone und App Store sind Marken von Apple Inc. Google Play und das Google Play-Logo sind Marken von Google LLC.",
+  "shot_lang": "de",
+  "page_foot": "Entwickelt von Diego Prados, unabhängiger Entwickler. © 2026 Diego Prados. Apple, iPhone und App Store sind Marken von Apple Inc. Google Play ist eine Marke von Google LLC.",
+  "privacy": {
+    "title": "Datenschutzerklärung – Photocells",
+    "desc": "Was Photocells mit deinen Daten macht: Kamerabilder verlassen nie das Gerät, kein Konto, keine Werbung, kein Tracking.",
+    "h1": "Datenschutzerklärung",
+    "body": "<p class=\"lead\">Kurz gesagt: Photocells hat kein Konto, keine Werbung und kein Tracking. Das Kamerabild verlässt nie dein Handy.</p>\n<h2>Kamera</h2><p>Photocells nutzt die Kamera, um zu erkennen, wann jemand die Linie überquert. Die Bilder werden im Arbeitsspeicher deines Geräts analysiert. Damit du jeden Durchgang prüfen kannst, behält die App das Bild jedes Durchgangs im Arbeitsspeicher, solange die Session und ihre Übersicht geöffnet sind, und verwirft es, sobald du sie verlässt. Kein Foto und kein Video wird auf deinem Gerät, in deinem Verlauf oder in iCloud gespeichert oder irgendwohin gesendet.</p>\n<h2>Sessions und unser Server</h2><p>Um die Handys einer Session zu synchronisieren, nutzt Photocells unseren Server (photocellsapp.com). Er speichert, was eine Session zum Funktionieren braucht: ihren Typ, die von dir eingegebenen Distanzen, die teilnehmenden Geräte und die Durchgangszeiten. Geräte werden über ein zufälliges, von der App erzeugtes Token identifiziert; es ist nicht mit deinem Namen, deiner E-Mail-Adresse, deinem Apple Account oder deinem Google-Konto verknüpft. Die Daten werden verschlüsselt übertragen (HTTPS/WSS). Du kannst uns bitten, die Sessions deines Geräts zu löschen, indem du an <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a> schreibst.</p>\n<h2>Athleten und Kommentare</h2><p>Die Namen der Athleten und die Kommentare, die du einer Session hinzufügst, werden nur auf deinem Gerät gespeichert. Sie werden nie an unseren Server gesendet. Auf dem iPhone wird dein Verlauf in deine private iCloud-Datenbank kopiert (Apples iCloud, unter deinem Account), damit er auf deinen anderen Geräten und nach einer Neuinstallation verfügbar ist; du kannst das in den iOS-Einstellungen → dein Name → iCloud ausschalten. Auf Android ist er im Backup deines Handys enthalten, wenn du Backups aktiviert hast.</p>\n<h2>Käufe</h2><p>Abos werden von Apple (App Store) oder Google (Google Play) abgewickelt. Wir erhalten deine Zahlungsdaten nicht; die App prüft nur, ob ein Abo aktiv ist.</p>\n<h2>Was wir nicht tun</h2><p>Keine Analyse- oder Werbe-SDKs, kein Tracking über Apps oder Websites hinweg, kein Standort, keine Kontakte, kein Verkauf von Daten.</p>\n<h2>Kinder</h2><p>Photocells ist ein Sport-Tool für alle Altersgruppen und erhebt nicht wissentlich personenbezogene Daten von Kindern.</p>\n<h2>Kontakt</h2><p>Diego Prados, unabhängiger Entwickler · <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Zuletzt aktualisiert: 11. November 2026.</p>"
+  },
+  "support": {
+    "title": "Support – Photocells",
+    "desc": "Hilfe zu Photocells: Kamera aufstellen, Sessions mit mehreren Handys, Abo und Käufe wiederherstellen.",
+    "h1": "Support",
+    "body": "<p class=\"lead\">Keine Antwort gefunden? Schreib an <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Es antwortet ein echter Mensch.</p>\n<h2>Zuverlässige Zeiten</h2>\n<details><summary>Wo stelle ich das Handy hin?</summary><p>Seitlich an die Bahn, möglichst auf Hüfthöhe, mit Blick quer über die Bahn. Richte die rote Linie auf den Durchgang aus. Sorge für einen ruhigen Hintergrund (keine Bäume, die sich im Wind bewegen, und kein Verkehr direkt hinter der Linie).</p></details>\n<details><summary>Sonne und Schatten</summary><p>Die Belichtung wird beim Start der Session fixiert. Platziere die Linie nicht dort, wo sich das Licht stark ändert (von praller Sonne zu tiefem Schatten). Prüfe vor dem Start des Athleten, dass die Anzeige oben in der Session grün DETEKTOR AKTIV zeigt.</p></details>\n<details><summary>Ein Durchgang fehlt oder es wurde einer zu viel erfasst</summary><p>Öffne die Einstellungen der Session und tippe auf „Letzten Durchgang löschen“, um einen überzähligen zu entfernen. Prüfe, dass das Handy stabil steht und die Detektor-Anzeige grün ist (DETEKTOR AKTIV), bevor der Athlet ankommt.</p></details>\n<h2>Sessions</h2>\n<details><summary>Wie arbeiten mehrere Handys zusammen?</summary><p>Erstelle auf einem Handy eine Session und teile den 4-stelligen Code. Die anderen tippen auf BEITRETEN, geben den Code ein und wählen ihre Position. Die Zeiten werden über unseren Server synchronisiert, daher braucht jedes Handy eine Internetverbindung.</p></details>\n<details><summary>Athleten und Kommentare</summary><p>Füge Athleten beim Erstellen einer Session oder später in ihrer Übersicht hinzu, durch Kommas getrennt. Tippe im Verlauf auf einen Athleten, um nur seine Sessions zu sehen. Diese Daten bleiben auf deinen Geräten.</p></details>\n<h2>Abo</h2>\n<details><summary>Was ist kostenlos?</summary><p>Einer Session beizutreten ist kostenlos. Zum Erstellen von Sessions brauchst du Photocells Pro (7 Tage gratis testen, danach monatlich oder jährlich).</p></details>\n<details><summary>Kauf wiederherstellen</summary><p>Öffne in der App die Einstellungen und tippe auf Wiederherstellen, angemeldet mit demselben Apple Account oder Google-Konto, mit dem du das Abo abgeschlossen hast.</p></details>\n<details><summary>Verwalten oder kündigen</summary><p>iPhone: App „Einstellungen“ → dein Name → Abonnements. Android: Google Play → Profil → Zahlungen und Abos → Abos. Kündige mindestens 24 Stunden vor der Verlängerung.</p></details>"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen – Photocells",
+    "desc": "Nutzungsbedingungen der App Photocells und des Abos Photocells Pro.",
+    "h1": "Nutzungsbedingungen",
+    "body": "<p>Mit der Nutzung von Photocells stimmst du diesen Bedingungen zu. Auf dem iPhone gilt außerdem Apples <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Standard-Endbenutzer-Lizenzvertrag für lizenzierte Apps</a>.</p>\n<h2>Der Dienst</h2><p>Photocells misst Zeiten mit der Kamera des Geräts und synchronisiert Sessions über unseren Server. Die Zeiten hängen vom Gerät, seiner Position, dem Licht und der Szene ab; sie sind für das Training gedacht und nicht für offizielle Wettkämpfe zertifiziert. Wir bemühen uns, den Dienst verfügbar zu halten, können aber nicht garantieren, dass er ohne Unterbrechungen läuft.</p>\n<h2>Photocells Pro</h2><p>Zum Erstellen von Sessions ist ein sich automatisch verlängerndes Abo (monatlich oder jährlich) erforderlich, mit 7 Tagen kostenlosem Test für neue Abonnenten. Die Zahlung wird deinem Apple Account oder Google Play-Konto belastet, wenn du den Kauf bestätigst (oder wenn der Testzeitraum endet). Das Abo verlängert sich automatisch, sofern es nicht mindestens 24 Stunden vor Ende des laufenden Zeitraums gekündigt wird. Du kannst es in den Einstellungen deines App Store- oder Google Play-Kontos verwalten oder kündigen. Erstattungen werden von Apple oder Google nach deren Richtlinien abgewickelt.</p>\n<h2>Zulässige Nutzung</h2><p>Missbrauche den Dienst nicht, störe nicht die Sessions anderer Nutzer und versuche nicht, auf Daten zuzugreifen, die nicht dir gehören.</p>\n<h2>Haftung</h2><p>Die App wird „wie besehen“ bereitgestellt. Soweit gesetzlich zulässig, haften wir nicht für indirekte Schäden oder für Entscheidungen, die auf Grundlage der gemessenen Zeiten getroffen werden.</p>\n<h2>Änderungen und Kontakt</h2><p>Wir können diese Bedingungen aktualisieren; die aktuelle Version steht immer auf dieser Seite. Fragen: <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Zuletzt aktualisiert: 11. November 2026.</p>"
+  },
+  "lang_label": "Sprache",
+  "price_shown": true
+}

@@ -1,112 +1,10 @@
-"""Photocells landing page (index.html, es/index.html). Imported by build_pages.py."""
+"""Photocells landing page (index.html in every language). Imported by build_pages.py.
+The text comes from i18n/<lang>.json; this file holds the markup, the CSS and the JS."""
 
 APP_STORE = "https://apps.apple.com/app/id6762532696"
 
-COPY = {
-    "es": {
-        "title": "Photocells · Tu móvil es una fotocélula",
-        "desc": "Cronometraje automático al milisegundo con la cámara del móvil. iPhone y Android en la misma sesión, sin comprar fotocélulas.",
-        "eyebrow": "Cronometraje con la cámara del móvil",
-        "h1": ["Tu móvil", "es una", "fotocélula."],
-        "lead": "Photocells detecta el instante en que el atleta cruza la línea y guarda el tiempo al milisegundo. Sin cronómetro, sin pulsar nada y sin comprar ni un cable.",
-        "badge_as": "img/badges/app-store-es.svg", "badge_gp": "img/badges/google-play-es.png",
-        "as_alt": "Descargar en el App Store", "gp_alt": "Disponible en Google Play", "soon": "Próximamente",
-        "under_cta": "Unirse a una sesión es gratis · Pro con 7 días de prueba",
-        "demo_pill": "DETECTOR ACTIVO", "demo_label": "ÚLTIMA VUELTA", "demo_cut": "CORTE",
-        "stats": [("0 €", "en hardware nuevo"), ("1/1000 s", "de resolución"), ("∞", "puertas por sesión"), ("iOS + Android", "en la misma sesión")],
-        "own_k": "Teléfonos tenemos todos",
-        "own_h": "El hardware ya lo llevas en el bolsillo.",
-        "own_p": "Cada entrenador, cada atleta y cada padre en la grada tiene un móvil con una cámara rapidísima. Photocells lo convierte en una puerta de cronometraje: lo apoyas a un lado de la pista, alineas la línea roja con el paso y a correr.",
-        "own_points": ["Cámara a 60–120 fotogramas por segundo", "Pantalla para ver cada tiempo al instante", "Conexión para sincronizar todas las puertas"],
-        "money_k": "Ahorra de verdad",
-        "money_h": "Fotocélulas profesionales sin pagar fotocélulas.",
-        "money_p": "Un sistema de fotocélulas inalámbricas cuesta cientos o miles de euros por cada par de puertas, y cada puerta extra se paga aparte. Con Photocells, cada móvil que tengáis es una puerta más.",
-        "old_t": "Fotocélulas tradicionales", "old": ["Cientos o miles de euros por cada par de puertas", "Trípodes, reflectores, baterías y maleta", "Cada puerta extra, otro desembolso", "Si se rompe una pieza, sesión cancelada"],
-        "new_t": "Photocells", "new": ["Los móviles que ya tenéis", "Pro: 5,99 €/mes o 44,99 €/año, con 7 días gratis", "Unirse a una sesión es gratis", "¿Otra puerta? Otro móvil"],
-        "bar_old": "Kit tradicional", "bar_new": "Photocells Pro · 1 año",
-        "bar_old_v": "cientos o miles de €", "bar_new_v": "44,99 €",
-        "mix_k": "Multiplataforma",
-        "mix_h": "iPhone y Android en la misma carrera.",
-        "mix_p": "Crea la sesión en un iPhone y únete con un Android, o al revés. Con un código de 4 cifras cada móvil se convierte en una puerta: salida, parciales y meta, sincronizados en tiempo real.",
-        "gates": [("SALIDA", "iPhone", "0:00,000"), ("30 M", "Android", "0:03,940"), ("META", "iPhone", "0:07,286")],
-        "photo_k": "Foto de cada paso",
-        "photo_h": "Mira el instante exacto del corte.",
-        "photo_p": "Al cortar, Photocells te enseña el fotograma del cruce con la línea marcada. Sabes al momento si fue el atleta… o una sombra. Las fotos viven solo en tu móvil mientras dura la sesión y su resumen.",
-        "how_k": "Cómo funciona", "how_h": "Tres pasos y a correr.",
-        "how": [("Coloca", "Apoya el móvil a un lado de la pista, a la altura de la cadera, y alinea la línea roja con el paso."),
-                ("Arranca", "Cuenta atrás con pitidos o salida al cruzar la primera puerta. El detector se arma solo."),
-                ("Corre", "Cada paso queda registrado al milisegundo: vueltas, parciales, mejor marca y velocidad.")],
-        "feat_k": "Todo lo que necesitas", "feat_h": "Pensada para entrenar, no para configurar.",
-        "feats": [("Circular o lineal", "Vueltas con un solo móvil, o recorridos de A a B con varios."),
-                  ("Velocidad", "Introduce la distancia y verás km/h, mph o m/s por vuelta y tramo."),
-                  ("Historial por atleta", "Añade atletas y notas, filtra y sigue la progresión."),
-                  ("CSV y PDF", "Exporta cada sesión para tu hoja de cálculo o el club."),
-                  ("Copia en iCloud", "Tu historial, a salvo en tu cuenta. Nada en nuestros servidores."),
-                  ("Privado", "Sin cuenta, sin anuncios, sin seguimiento. La cámara se analiza en el móvil.")],
-        "shots_k": "La app", "shots_h": "Hecha para la pista.",
-        "price_k": "Precio", "price_h": "Menos que un par de zapatillas. Al año.",
-        "plans": [("Mensual", "5,99 €", "/mes"), ("Anual", "44,99 €", "/año")],
-        "price_note": "7 días gratis en ambos planes. Unirse a una sesión es gratis para todos los dispositivos.",
-        "save": "Ahorra 40 %",
-        "final_h": "Saca el móvil. Empieza a cronometrar.",
-        "nav": ("Soporte", "Privacidad", "Términos"), "other": ("../", "English", "en"),
-        "foot": "Hecho por Diego Prados, desarrollador independiente. © 2026 Diego Prados. Apple, iPhone y App Store son marcas de Apple Inc. Google Play y el logotipo de Google Play son marcas de Google LLC.",
-        "shot_lang": "es",
-    },
-    "en": {
-        "title": "Photocells · Your phone is a timing gate",
-        "desc": "Automatic timing to the millisecond with your phone's camera. iPhone and Android in the same session, no timing gates to buy.",
-        "eyebrow": "Timing with your phone's camera",
-        "h1": ["Your phone", "is a timing", "gate."],
-        "lead": "Photocells sees the instant an athlete crosses the line and records the time to the millisecond. No stopwatch, no tapping, and not a single cable to buy.",
-        "badge_as": "img/badges/app-store-en.svg", "badge_gp": "img/badges/google-play-en.png",
-        "as_alt": "Download on the App Store", "gp_alt": "Get it on Google Play", "soon": "Coming soon",
-        "under_cta": "Joining a session is free · Pro with a 7-day free trial",
-        "demo_pill": "DETECTOR ACTIVE", "demo_label": "LAST LAP", "demo_cut": "CUT",
-        "stats": [("$0", "in new hardware"), ("1/1000 s", "resolution"), ("∞", "gates per session"), ("iOS + Android", "in one session")],
-        "own_k": "Everyone has a phone",
-        "own_h": "The hardware is already in your pocket.",
-        "own_p": "Every coach, every athlete and every parent in the stands carries a phone with a very fast camera. Photocells turns it into a timing gate: stand it at the side of the track, line up the red line with the crossing, and go.",
-        "own_points": ["A camera running at 60–120 frames per second", "A screen to see every time instantly", "A connection to sync every gate"],
-        "money_k": "Real savings",
-        "money_h": "Pro timing gates without paying for timing gates.",
-        "money_p": "A wireless timing gate system costs hundreds or thousands for every pair of gates, and every extra gate is another purchase. With Photocells, every phone you have is one more gate.",
-        "old_t": "Traditional timing gates", "old": ["Hundreds or thousands per pair of gates", "Tripods, reflectors, batteries and a case", "Every extra gate, another purchase", "One broken part, session cancelled"],
-        "new_t": "Photocells", "new": ["The phones you already have", "Pro: $5.99/month or $44.99/year, 7 days free", "Joining a session is free", "Need another gate? Add another phone"],
-        "bar_old": "Traditional kit", "bar_new": "Photocells Pro · 1 year",
-        "bar_old_v": "hundreds or thousands", "bar_new_v": "$44.99",
-        "mix_k": "Cross-platform",
-        "mix_h": "iPhone and Android in the same race.",
-        "mix_p": "Create the session on an iPhone and join from an Android, or the other way round. With a 4-digit code every phone becomes a gate: start, splits and finish, synced in real time.",
-        "gates": [("START", "iPhone", "0:00.000"), ("30 M", "Android", "0:03.940"), ("FINISH", "iPhone", "0:07.286")],
-        "photo_k": "A photo of every crossing",
-        "photo_h": "See the exact moment of the cut.",
-        "photo_p": "On every cut, Photocells shows you the frame of the crossing with the line marked. You know at once whether it was the athlete… or a shadow. Photos live only on your phone while the session and its summary are open.",
-        "how_k": "How it works", "how_h": "Three steps, then run.",
-        "how": [("Place", "Stand the phone at the side of the track, at hip height, and line up the red line with the crossing."),
-                ("Start", "A countdown with beeps, or start on the first crossing. The detector arms itself."),
-                ("Run", "Every crossing is recorded to the millisecond: laps, splits, best run and speed.")],
-        "feat_k": "Everything you need", "feat_h": "Made for training, not for setting up.",
-        "feats": [("Circular or linear", "Laps with a single phone, or A-to-B runs with several."),
-                  ("Speed", "Enter the distance to see km/h, mph or m/s per lap and segment."),
-                  ("History by athlete", "Add athletes and notes, filter, and follow their progress."),
-                  ("CSV and PDF", "Export any session for your spreadsheet or your club."),
-                  ("iCloud copy", "Your history, safe in your own account. Nothing on our servers."),
-                  ("Private", "No account, no ads, no tracking. The camera is analysed on the phone.")],
-        "shots_k": "The app", "shots_h": "Built for the track.",
-        "price_k": "Pricing", "price_h": "Less than a pair of running shoes. Per year.",
-        "plans": [("Monthly", "$5.99", "/month"), ("Yearly", "$44.99", "/year")],
-        "price_note": "7 days free on both plans. Joining a session is free for every device.",
-        "save": "Save 40%",
-        "final_h": "Take out your phone. Start timing.",
-        "nav": ("Support", "Privacy", "Terms"), "other": ("es/", "Español", "es"),
-        "foot": "Made by Diego Prados, an independent developer. © 2026 Diego Prados. Apple, iPhone and App Store are trademarks of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.",
-        "shot_lang": "en",
-    },
-}
-
 CSS = r"""
-:root{--red:#FF2D2D;--red2:#CC1A1A;--ink:#F5F5F7;--mute:#9C9CA3;--bg:#060607;--card:#111114;--line:#232328;--green:#30D158;--fj:"Fjalla One",Impact,"Arial Narrow",sans-serif;--sans:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+:root{--red:#FF2D2D;--red2:#CC1A1A;--ink:#F5F5F7;--mute:#9C9CA3;--bg:#060607;--card:#111114;--line:#232328;--green:#30D158;--fj:"Fjalla One",Impact,"Arial Narrow",sans-serif;--fx:"Fjalla One",Impact,"Arial Narrow",sans-serif;--sans:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 var(--sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
 a{color:inherit}img{max-width:100%;display:block}
@@ -118,9 +16,16 @@ p{color:var(--mute)}
 /* nav */
 .nav{position:absolute;inset:0 0 auto 0;z-index:5}
 .nav .wrap{display:flex;align-items:center;justify-content:space-between;height:76px}
-.brand{display:flex;gap:10px;align-items:center;text-decoration:none;font:20px var(--fj);letter-spacing:.08em}
+.brand{display:flex;gap:10px;align-items:center;text-decoration:none;font:20px var(--fx);letter-spacing:.08em}
 .brand img{width:34px;height:34px;border-radius:8px}
-.nav nav a{text-decoration:none;color:var(--mute);margin-left:22px;font-size:15px}.nav nav a:hover{color:var(--ink)}
+.nav nav{display:flex;align-items:center}.nav nav a{text-decoration:none;color:var(--mute);margin-left:22px;font-size:15px}.nav nav a:hover{color:var(--ink)}
+.lang{position:relative;margin-left:22px}
+.lang summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:6px;padding:6px 11px;border:1px solid var(--line);border-radius:99px;color:var(--mute);font-size:14px;letter-spacing:.04em;background:rgba(6,6,7,.5)}
+.lang summary::-webkit-details-marker{display:none}.lang summary:hover,.lang[open] summary{color:var(--ink)}
+.lang summary:after{content:"";width:5px;height:5px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg) translateY(-2px);margin-left:2px}
+.lang ul{position:absolute;right:0;top:calc(100% + 8px);z-index:10;margin:0;padding:6px;list-style:none;min-width:200px;background:#111114;border:1px solid var(--line);border-radius:14px;box-shadow:0 20px 50px rgba(0,0,0,.6)}
+.nav nav .lang a{display:block;margin:0;padding:8px 12px;border-radius:8px;color:var(--ink);font-size:15px}
+.nav nav .lang a:hover{background:rgba(255,255,255,.06)}.nav nav .lang a[aria-current]{color:var(--red)}
 /* hero */
 .hero{position:relative;min-height:100vh;display:flex;align-items:center;overflow:hidden;padding:110px 0 70px;
   background:radial-gradient(60% 70% at 72% 45%,rgba(255,45,45,.22),transparent 70%),radial-gradient(40% 40% at 10% 90%,rgba(255,45,45,.08),transparent 70%),var(--bg)}
@@ -129,7 +34,7 @@ p{color:var(--mute)}
 .beam.flash{animation:flash .45s ease-out}
 @keyframes flash{0%{box-shadow:0 0 30px 12px rgba(255,80,80,1),0 0 180px 60px rgba(255,45,45,.6);width:8px}100%{box-shadow:0 0 18px 4px rgba(255,45,45,.65),0 0 80px 18px rgba(255,45,45,.25);width:3px}}
 .hero .wrap{position:relative;z-index:2;display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center;width:100%}
-.hero h1{font-size:clamp(64px,10.5vw,148px);line-height:.88;margin:18px 0 26px}
+.hero .wrap>div{min-width:0}.hero h1{font-size:clamp(64px,10.5vw,148px);line-height:.88;margin:18px 0 26px}
 .hero h1 span{display:block}.hero h1 span:last-child{color:var(--red);text-shadow:0 0 40px rgba(255,45,45,.35)}
 .lead{font-size:clamp(18px,1.6vw,21px);max-width:560px;color:#C9C9CE}
 .badges{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-top:30px}
@@ -148,15 +53,15 @@ p{color:var(--mute)}
 .island{position:absolute;top:12px;left:50%;transform:translateX(-50%);width:96px;height:28px;border-radius:20px;background:#000;z-index:3}
 .hud{position:absolute;left:12px;right:12px;bottom:14px;padding:14px 16px;border-radius:24px;background:rgba(10,10,12,.72);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.08)}
 .hud small{display:block;font:10px var(--fj);letter-spacing:.2em;color:var(--mute)}
-.hud b{display:block;font:56px/1 var(--fj);font-weight:400;color:var(--red);letter-spacing:.01em}.hud b span{font-size:34px;opacity:.85}
-.laps{display:flex;gap:6px;margin-top:8px;font:12px var(--fj);color:#ddd}.laps span{background:rgba(255,255,255,.08);padding:4px 8px;border-radius:8px;opacity:0;transform:translateY(6px);transition:.35s}.laps span.on{opacity:1;transform:none}
+.hud b{display:block;font:56px/1 var(--fx);font-weight:400;color:var(--red);letter-spacing:.01em}.hud b span{font-size:34px;opacity:.85}
+.laps{display:flex;gap:6px;margin-top:8px;font:12px var(--fx);color:#ddd}.laps span{background:rgba(255,255,255,.08);padding:4px 8px;border-radius:8px;opacity:0;transform:translateY(6px);transition:.35s}.laps span.on{opacity:1;transform:none}
 .cutcard{position:absolute;left:14px;top:84px;width:76px;padding:4px;border-radius:12px;background:#151518;border:1.5px solid var(--red);opacity:0;transform:scale(.8);transform-origin:top left;transition:.25s}
 .cutcard.on{opacity:1;transform:none}.cutcard canvas{width:100%;border-radius:8px;display:block}.cutcard p{margin:3px 0 0;text-align:center;font:8px var(--fj);letter-spacing:.15em;color:var(--red)}
 /* stats */
 .stats{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#09090a}
 .stats .wrap{display:grid;grid-template-columns:repeat(4,1fr)}
 .stat{padding:38px 18px;text-align:center;border-left:1px solid var(--line)}.stat:first-child{border-left:0}
-.stat b{display:block;font:clamp(30px,4vw,52px)/1 var(--fj);font-weight:400}.stat span{color:var(--mute);font-size:14px;letter-spacing:.04em}
+.stat b{display:block;font:clamp(30px,4vw,52px)/1 var(--fx);font-weight:400}.stat span{color:var(--mute);font-size:14px;letter-spacing:.04em}
 section{padding:130px 0}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:center}
 /* own: phones row */
@@ -178,7 +83,7 @@ section{padding:130px 0}
 .bars{margin-top:46px;display:grid;gap:16px}
 .bar{display:grid;grid-template-columns:220px 1fr;gap:18px;align-items:center;font:15px var(--fj);letter-spacing:.06em;text-transform:uppercase;color:var(--mute)}
 .bar i{display:flex;align-items:center;justify-content:flex-end;height:46px;border-radius:12px;padding:0 16px;font-style:normal;color:#fff;font-size:17px}
-.bar.o i{width:100%;background:repeating-linear-gradient(135deg,#2a2a2f 0 14px,#232327 14px 28px)}.bar.n i{width:9%;min-width:110px;background:linear-gradient(90deg,var(--red),var(--red2));box-shadow:0 0 30px rgba(255,45,45,.4)}
+.bar.o i{width:100%;background:repeating-linear-gradient(135deg,#2a2a2f 0 14px,#232327 14px 28px)}.bar.n i{width:9%;min-width:110px;white-space:nowrap;background:linear-gradient(90deg,var(--red),var(--red2));box-shadow:0 0 30px rgba(255,45,45,.4)}
 /* mix */
 .track{position:relative;margin-top:60px;padding:70px 0 20px}
 .track:before{content:"";position:absolute;left:4%;right:4%;top:150px;height:10px;border-radius:5px;background:repeating-linear-gradient(90deg,#1f1f23 0 40px,#18181b 40px 80px);border:1px solid #2a2a30}
@@ -188,7 +93,7 @@ section{padding:130px 0}
 .gate .dev:after{content:"";position:absolute;top:-60px;bottom:-60px;left:50%;width:2px;background:var(--red);box-shadow:0 0 14px var(--red);transform:translateX(-50%);opacity:.9}
 .gate .dev.android{border-radius:12px}
 .gate h4{font:22px var(--fj);margin:76px 0 2px;letter-spacing:.06em}.gate .os{font-size:13px;color:var(--mute);text-transform:uppercase;letter-spacing:.2em}
-.gate .t{font:26px var(--fj);color:var(--red);margin-top:6px}
+.gate .t{font:26px var(--fx);color:var(--red);margin-top:6px}
 .runner{position:absolute;top:96px;left:3%;width:26px;height:26px;border-radius:50%;background:#fff;box-shadow:0 0 22px #fff,0 0 60px rgba(255,255,255,.4);animation:run 4.5s linear infinite}
 @keyframes run{0%{left:3%}100%{left:95%}}
 /* photo */
@@ -199,7 +104,7 @@ section{padding:130px 0}
 /* how */
 .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:46px;counter-reset:s}
 .step{padding:30px;border-radius:24px;background:var(--card);border:1px solid var(--line);position:relative;overflow:hidden}
-.step:before{counter-increment:s;content:"0" counter(s);position:absolute;right:16px;top:-6px;font:110px/1 var(--fj);color:rgba(255,45,45,.12)}
+.step:before{counter-increment:s;content:"0" counter(s);position:absolute;right:16px;top:-6px;font:110px/1 var(--fx);color:rgba(255,45,45,.12)}
 .step h3{font-size:30px;margin-bottom:8px}.step p{margin:0}
 .feats{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:26px;overflow:hidden;margin-top:46px}
 .feat{background:var(--bg);padding:32px}.feat h3{font-size:22px;letter-spacing:.04em;margin-bottom:6px}.feat p{margin:0;font-size:15px}
@@ -211,7 +116,8 @@ section{padding:130px 0}
 .plan{position:relative;text-align:center;padding:36px;border-radius:26px;background:var(--card);border:1px solid var(--line)}
 .plan.best{border-color:var(--red);box-shadow:0 30px 90px rgba(255,45,45,.15)}
 .plan .tag{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--red);color:#fff;font:12px var(--fj);letter-spacing:.14em;padding:6px 12px;border-radius:99px;text-transform:uppercase;white-space:nowrap}
-.plan h3{font-size:22px;color:var(--mute);letter-spacing:.1em}.plan b{display:block;font:64px/1.1 var(--fj);font-weight:400;margin-top:8px}.plan span{color:var(--mute)}
+.plan h3{font-size:22px;color:var(--mute);letter-spacing:.1em}.plan b{display:block;font:64px/1.1 var(--fx);font-weight:400;margin-top:8px}.plan span{color:var(--mute)}
+.noprice .plan b{font-size:46px;line-height:1.25;margin-top:6px}.noprice .bar.n i{min-width:max-content}
 .center{text-align:center}.center p{max-width:640px;margin-left:auto;margin-right:auto}
 .final{padding:150px 0;text-align:center;position:relative;overflow:hidden;background:radial-gradient(50% 60% at 50% 100%,rgba(255,45,45,.25),transparent 70%)}
 .final h2{font-size:clamp(48px,8vw,110px)}.final .badges{justify-content:center}
@@ -222,12 +128,19 @@ footer{border-top:1px solid var(--line);padding:34px 0 50px;color:var(--mute);fo
  .stats .wrap{grid-template-columns:1fr 1fr}.stat:nth-child(3){border-left:0}.stat{border-top:1px solid var(--line)}
  .steps,.feats{grid-template-columns:1fr}.bar{grid-template-columns:1fr}.crowd{height:340px}.crowd .ph{width:96px}
  .gates{gap:6px}.gate{width:auto;flex:1}.gate h4{font-size:16px}.gate .t{font-size:18px}.gate .dev{width:52px;height:108px}
- .nav nav a:not(:last-child){display:none}section{padding:90px 0}.plans{grid-template-columns:1fr}
+ .nav nav>a{display:none}section{padding:90px 0}.plans{grid-template-columns:1fr}
 }
 @media (prefers-reduced-motion:reduce){.runner{animation:none}.reveal{opacity:1;transform:none;transition:none}}
 """
 
 JS = r"""
+(function(){
+  // Shrink the hero title until its longest word fits (long German/Polish/Russian words, narrow phones).
+  var h1=document.querySelector('.hero h1');
+  function fitHero(){ if(!h1) return; h1.style.fontSize=''; var fs=parseFloat(getComputedStyle(h1).fontSize), n=0;
+    while(h1.scrollWidth>h1.clientWidth+1 && fs>28 && n++<40){ fs*=0.95; h1.style.fontSize=fs+'px'; } }
+  fitHero(); addEventListener('resize',fitHero); if(document.fonts&&document.fonts.ready) document.fonts.ready.then(fitHero);
+})();
 (function(){
   var beamEl=document.querySelector('.beam'), phoneEl=document.querySelector('.phone'), heroEl=document.querySelector('.hero');
   function align(){ if(!beamEl||!phoneEl) return; var r=phoneEl.getBoundingClientRect(), h=heroEl.getBoundingClientRect(); beamEl.style.left=(r.left-h.left+r.width/2)+'px'; }
@@ -253,10 +166,45 @@ JS = r"""
 })();
 """
 
+FONTS = {
+    "default": "https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap",
+    # Fjalla One has no Cyrillic: Oswald for the Russian display text, Fjalla kept for digits and the wordmark.
+    "ru": "https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oswald:wght@500;600;700&display=swap",
+}
 
-def landing(lang, base, prefix, other_href):
-    c = COPY[lang]
-    p = prefix  # "" or "../"
+# Long compound words (German, Dutch, Polish, Russian...) must not overflow at 375 px.
+# Section titles hyphenate; the hero title is shrunk to fit its longest word instead (see fitHero in JS).
+HYPHENS = "h2,h3{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}"
+
+
+def _cjk(stack):
+    """Japanese / Chinese: system fonts, no uppercase, no wide tracking, looser leading."""
+    return (f':root{{--fj:{stack},sans-serif;--fx:"Fjalla One",{stack},sans-serif}}'
+            "h1,h2,h3{font-weight:700;letter-spacing:0;line-break:strict}"
+            "h1,h2,h3,.k,.bar,.plan .tag,.soonwrap em,.badges .soon em,.gate .os{text-transform:none}"
+            ".k{letter-spacing:.14em;font-weight:700}.bar{letter-spacing:.02em}.pill,.hud small,.cutcard p,.ph-card p{letter-spacing:.06em}"
+            "h2{font-size:clamp(32px,4.8vw,60px);line-height:1.2}.final h2{font-size:clamp(36px,6vw,84px)}"
+            ".hero h1{font-size:clamp(48px,8.5vw,120px);line-height:1.1}"
+            ".box h3,.step h3{font-size:26px}.feat h3{font-size:20px;letter-spacing:0}.gate h4{letter-spacing:0}")
+
+
+LANG_CSS = {
+    "de": HYPHENS + ".hero h1{font-size:clamp(46px,8.4vw,118px)}h2{font-size:clamp(34px,5.4vw,70px)}",
+    "fr": HYPHENS,
+    "it": HYPHENS,
+    "nl": HYPHENS + ".hero h1{font-size:clamp(50px,9vw,128px)}",
+    "pt-BR": HYPHENS,
+    "pl": HYPHENS + ".hero h1{font-size:clamp(50px,9vw,128px)}",
+    "ru": HYPHENS + ':root{--fj:"Oswald","Fjalla One",Impact,"Arial Narrow",sans-serif;--fx:"Fjalla One","Oswald",Impact,"Arial Narrow",sans-serif}'
+          "h1,h2,h3{font-weight:500}.hero h1{font-size:clamp(46px,8.4vw,118px);line-height:.95}h2{font-size:clamp(34px,5.4vw,70px);line-height:1.04}",
+    "ja": _cjk('"Hiragino Sans","Noto Sans JP"'),
+    "zh-Hans": _cjk('"PingFang SC","Noto Sans SC"'),
+}
+
+
+def landing(lang, c, base, prefix, alternates, switcher, lang_js):
+    """lang: code ("en", "pt-BR"...); c: that language's i18n dict; prefix: "" at the root, "../" in a language folder."""
+    p = prefix
     badges = f"""<div class="badges">
   <a href="{APP_STORE}" aria-label="{c['as_alt']}"><img src="{p}{c['badge_as']}" alt="{c['as_alt']}" width="168" height="56"></a>
   <div class="soonwrap" aria-label="{c['gp_alt']} · {c['soon']}"><em>{c['soon']}</em><span class="soon"><img src="{p}{c['badge_gp']}" alt="{c['gp_alt']}" height="56"></span></div>
@@ -266,6 +214,7 @@ def landing(lang, base, prefix, other_href):
     steps = "".join(f'<div class="step reveal"><h3>{h}</h3><p>{d}</p></div>' for h, d in c["how"])
     feats = "".join(f'<div class="feat"><h3>{h}</h3><p>{d}</p></div>' for h, d in c["feats"])
     shots = "".join(f'<img src="{p}img/shots/{c["shot_lang"]}-{n}.jpg" alt="" loading="lazy" width="250">' for n in ("1-session", "2-photo", "3-linear", "4-summary", "5-history", "6-home"))
+    body_class = "" if c["price_shown"] else ' class="noprice"'
     plans = "".join(f'<div class="plan{" best" if i == 1 else ""}">{"<span class=tag>" + c["save"] + "</span>" if i == 1 else ""}<h3>{n}</h3><b>{pr}</b><span>{per}</span></div>' for i, (n, pr, per) in enumerate(c["plans"]))
     nav = c["nav"]
     ticks = "".join(f"<li>{x}</li>" for x in c["own_points"])
@@ -280,21 +229,18 @@ def landing(lang, base, prefix, other_href):
 <link rel="icon" type="image/png" sizes="64x64" href="{p}img/favicon-64.png">
 <link rel="apple-touch-icon" href="{p}img/apple-touch-icon.png">
 <meta name="apple-itunes-app" content="app-id=6762532696">
-<link rel="canonical" href="{base}{'' if lang == 'en' else 'es/'}">
-<link rel="alternate" hreflang="en" href="{base}">
-<link rel="alternate" hreflang="es" href="{base}es/">
-<link rel="alternate" hreflang="x-default" href="{base}">
+{alternates}
 <meta property="og:title" content="{c['title']}">
 <meta property="og:description" content="{c['desc']}">
 <meta property="og:image" content="{base}img/og.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
-<style>{CSS}</style>
+<link href="{FONTS.get(lang, FONTS['default'])}" rel="stylesheet">
+<style>{CSS}{LANG_CSS.get(lang, '')}</style>
 </head>
-<body>
+<body{body_class}>
 <header class="nav"><div class="wrap"><a class="brand" href="./"><img src="{p}img/icon-256.png" alt="">PHOTOCELLS</a>
-<nav><a href="#how">{c['how_k']}</a><a href="#price">{c['price_k']}</a><a href="support.html">{nav[0]}</a><a href="{other_href}" hreflang="{c['other'][2]}">{c['other'][1]}</a></nav></div></header>
+<nav><a href="#how">{c['how_k']}</a><a href="#price">{c['price_k']}</a><a href="support.html">{nav[0]}</a>{switcher}</nav></div></header>
 
 <div class="hero">
   <div class="beam" aria-hidden="true"></div>
@@ -366,8 +312,8 @@ def landing(lang, base, prefix, other_href):
 
 <div class="final"><div class="wrap"><h2>{c['final_h']}</h2>{badges}</div></div>
 
-<footer><div class="wrap"><a href="support.html">{nav[0]}</a><a href="privacy.html">{nav[1]}</a><a href="terms.html">{nav[2]}</a><a href="mailto:dpappssupport@gmail.com">dpappssupport@gmail.com</a><p>{c['foot']}</p></div></footer>
-<script>{JS}</script>
+<footer><div class="wrap"><a href="support.html">{nav[0]}</a> <a href="privacy.html">{nav[1]}</a> <a href="terms.html">{nav[2]}</a> <a href="mailto:dpappssupport@gmail.com">dpappssupport@gmail.com</a><p>{c['foot']}</p></div></footer>
+<script>{JS}{lang_js}</script>
 </body>
 </html>
 """

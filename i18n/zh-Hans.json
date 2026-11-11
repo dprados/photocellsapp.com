@@ -1,0 +1,181 @@
+{
+  "lang_name": "简体中文",
+  "title": "Photocells · 你的手机就是光电门",
+  "desc": "用手机摄像头自动计时，精确到千分之一秒。iPhone 和 Android 可加入同一次训练，无需购买光电门。",
+  "eyebrow": "用手机摄像头计时",
+  "h1": [
+    "你的手机",
+    "就是光电门。"
+  ],
+  "lead": "Photocells 在运动员越过红线的瞬间自动记录时间，精确到千分之一秒。无需秒表，无需按键，连一根线都不用买。",
+  "badge_as": "img/badges/app-store-en.svg",
+  "badge_gp": "img/badges/google-play-en.png",
+  "as_alt": "在 App Store 下载",
+  "gp_alt": "下载应用，请到 Google Play",
+  "soon": "即将上线",
+  "under_cta": "加入训练免费 · Pro 可免费试用 7 天",
+  "demo_pill": "检测中",
+  "demo_label": "上一圈",
+  "demo_cut": "通过",
+  "stats": [
+    [
+      "0 元",
+      "新硬件投入"
+    ],
+    [
+      "1/1000 秒",
+      "计时精度"
+    ],
+    [
+      "∞",
+      "每次训练的光电门数"
+    ],
+    [
+      "iOS + Android",
+      "同一次训练"
+    ]
+  ],
+  "own_k": "人人都有手机",
+  "own_h": "硬件就在你的口袋里。",
+  "own_p": "每位教练、每位运动员、看台上的每位家长，手里都有一部带高速摄像头的手机。Photocells 把它变成光电门：放在跑道一侧，把红线对准通过点，就能开始。",
+  "own_points": [
+    "每秒 60–120 帧的摄像头",
+    "每个成绩即时显示的屏幕",
+    "同步所有光电门的网络连接"
+  ],
+  "money_k": "实实在在地省钱",
+  "money_h": "专业计时，不必花钱买光电门。",
+  "money_p": "一套无线光电门系统，每对动辄数百至数千美元，每多一个光电门又是一笔开销。用 Photocells，你们手上的每部手机都能多当一个光电门。",
+  "old_t": "传统光电门",
+  "old": [
+    "每对数百至数千美元",
+    "三脚架、反光板、电池和收纳箱",
+    "每多一个光电门，又是一笔开销",
+    "坏一个零件，训练就得取消"
+  ],
+  "new_t": "Photocells",
+  "new": [
+    "用你们现有的手机",
+    "Pro：按月或按年订阅，7 天免费",
+    "加入训练免费",
+    "还要一个光电门？再加一部手机"
+  ],
+  "bar_old": "传统套装",
+  "bar_new": "Photocells",
+  "bar_old_v": "数百至数千美元",
+  "bar_new_v": "1 年 Pro",
+  "mix_k": "跨平台",
+  "mix_h": "iPhone 和 Android，同场竞技。",
+  "mix_p": "在 iPhone 上创建训练，用 Android 加入，反过来也行。输入 4 位数代码，每部手机都能成为光电门：起点、分段和终点，实时同步。",
+  "gates": [
+    [
+      "起点",
+      "iPhone",
+      "0:00,000"
+    ],
+    [
+      "30 米",
+      "Android",
+      "0:03,940"
+    ],
+    [
+      "终点",
+      "iPhone",
+      "0:07,286"
+    ]
+  ],
+  "photo_k": "每次通过都有照片",
+  "photo_h": "看清通过的那一瞬间。",
+  "photo_p": "每次通过，Photocells 都会显示带计时线的通过画面。是运动员……还是影子，一眼便知。照片只在训练及其总结打开期间保存在你的手机上。",
+  "how_k": "使用方法",
+  "how_h": "三步，开跑。",
+  "how": [
+    [
+      "摆放",
+      "把手机放在跑道一侧、与髋部同高，把红线对准通过点。"
+    ],
+    [
+      "开始",
+      "蜂鸣倒计时，或以首次通过为起点。检测会自动开启。"
+    ],
+    [
+      "开跑",
+      "每次通过都精确记录到千分之一秒：圈速、分段、最佳成绩和速度。"
+    ]
+  ],
+  "feat_k": "所需功能，一应俱全",
+  "feat_h": "为训练而生，不为设置而烦。",
+  "feats": [
+    [
+      "环形或直线",
+      "一台手机记录圈速，或多台手机从 A 点计到 B 点。"
+    ],
+    [
+      "速度",
+      "输入距离，即可查看每圈和每段的 km/h、mph 或 m/s。"
+    ],
+    [
+      "按运动员查看历史",
+      "添加运动员和备注，筛选并跟踪进步。"
+    ],
+    [
+      "CSV 和 PDF",
+      "导出任意训练，用于表格或俱乐部。"
+    ],
+    [
+      "iCloud 备份",
+      "历史记录安全保存在你自己的账户中。我们的服务器上什么都没有。"
+    ],
+    [
+      "隐私",
+      "无需账户，无广告，无跟踪。摄像头画面在手机上分析。"
+    ]
+  ],
+  "shots_k": "应用",
+  "shots_h": "为跑道而生。",
+  "price_k": "价格",
+  "price_h": "不到一双跑鞋的钱，用一整年。",
+  "plans": [
+    [
+      "Photocells Pro",
+      "月度",
+      "7 天免费"
+    ],
+    [
+      "Photocells Pro",
+      "年度",
+      "7 天免费"
+    ]
+  ],
+  "price_note": "两种方案均可免费试用 7 天。以你所在地区货币计价的价格会在订阅前显示在应用和商店中。任何设备加入训练都免费。",
+  "save": "省 40%",
+  "final_h": "拿出手机，开始计时。",
+  "nav": [
+    "支持",
+    "隐私",
+    "条款"
+  ],
+  "foot": "由独立开发者 Diego Prados 开发。© 2026 Diego Prados. Apple、iPhone 和 App Store 是 Apple Inc. 的商标。Google Play 和 Google Play 徽标是 Google LLC 的商标。",
+  "shot_lang": "zh-hans",
+  "page_foot": "由独立开发者 Diego Prados 开发。© 2026 Diego Prados. Apple、iPhone 和 App Store 是 Apple Inc. 的商标。Google Play 是 Google LLC 的商标。",
+  "privacy": {
+    "title": "隐私政策 – Photocells",
+    "desc": "Photocells 如何处理你的数据：摄像头画面不离开设备，无需账户，无广告，无跟踪。",
+    "h1": "隐私政策",
+    "body": "<p class=\"lead\">简而言之：Photocells 没有账户、没有广告、没有跟踪。摄像头画面永远不会离开你的手机。</p>\n<h2>摄像头</h2><p>Photocells 使用摄像头检测是否有人越过计时线。画面在你设备的内存中进行分析。为了让你核对每次通过，应用会在训练及其总结打开期间，将每次通过的画面保留在内存中，退出后即丢弃。任何照片或视频都不会保存到你的设备、历史记录或 iCloud 中，也不会发送到任何地方。</p>\n<h2>训练与我们的服务器</h2><p>为了同步同一次训练中的手机，Photocells 会使用我们的服务器（photocellsapp.com）。服务器保存训练运行所需的信息：训练类型、你输入的距离、参与的设备以及通过时间。设备通过应用生成的随机令牌识别；该令牌与你的姓名、电子邮件、Apple 账户或 Google 账户均无关联。数据以加密方式传输（HTTPS/WSS）。如需删除你设备的训练数据，请发送邮件至 <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>。</p>\n<h2>运动员和备注</h2><p>你为训练添加的运动员姓名和备注只保存在你的设备上，绝不会发送到我们的服务器。在 iPhone 上，你的历史记录会复制到你的私有 iCloud 数据库（Apple 的 iCloud，位于你的账户下），以便在你的其他设备上以及重新安装后使用；你可以在 iOS 设置 → 你的姓名 → iCloud 中关闭此功能。在 Android 上，如果你开启了备份，历史记录会包含在手机的备份中。</p>\n<h2>购买</h2><p>订阅由 Apple（App Store）或 Google（Google Play）处理。我们不会收到你的付款信息；应用只会检查是否有有效的订阅。</p>\n<h2>我们不做的事</h2><p>不使用任何分析或广告 SDK，不跨应用或网站跟踪，不获取位置，不读取通讯录，不出售数据。</p>\n<h2>儿童</h2><p>Photocells 是面向大众的运动工具，不会在知情的情况下收集儿童的个人数据。</p>\n<h2>联系方式</h2><p>独立开发者 Diego Prados · <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>。最后更新：2026年11月11日。</p>"
+  },
+  "support": {
+    "title": "支持 – Photocells",
+    "desc": "Photocells 帮助：摆放摄像头、多台手机一起训练、订阅以及恢复购买。",
+    "h1": "支持",
+    "body": "<p class=\"lead\">没找到答案？请写信至 <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>，会有真人回复你。</p>\n<h2>获得可靠的成绩</h2>\n<details><summary>手机应该放在哪里？</summary><p>放在跑道一侧，尽量与髋部同高，镜头横向对着跑道。把红线对准通过点。背景最好保持静止（避开随风摆动的树木，或紧挨计时线后方的过往车辆）。</p></details>\n<details><summary>阳光与阴影</summary><p>训练开始时曝光会被锁定。不要把计时线放在光线变化很大的地方（从强烈阳光到浓重阴影）。运动员起跑前，请确认训练界面顶部的指示器显示绿色的“检测中”。</p></details>\n<details><summary>漏记了一次通过，或多记了一次</summary><p>打开训练设置，使用“撤销上次通过”删除多记的那一次。在运动员到达之前，请确认手机放置稳定，且检测指示器为绿色（检测中）。</p></details>\n<h2>训练</h2>\n<details><summary>多台手机如何协同工作？</summary><p>在一台手机上创建训练并分享 4 位数代码。其他人点击“加入”，输入代码并选择自己的位置。成绩通过我们的服务器同步，因此每台手机都需要联网。</p></details>\n<details><summary>运动员和备注</summary><p>可以在创建训练时添加运动员，也可以之后在训练总结中添加，用逗号分隔。在“历史”中点击某位运动员，即可只查看其训练。这些信息只保存在你的设备上。</p></details>\n<h2>订阅</h2>\n<details><summary>哪些是免费的？</summary><p>加入训练是免费的。创建训练需要 Photocells Pro（免费试用 7 天，之后按月或按年订阅）。</p></details>\n<details><summary>恢复购买</summary><p>打开应用中的“设置”，点击“恢复”，并确保登录的是订阅时使用的同一个 Apple 账户或 Google 账户。</p></details>\n<details><summary>管理或取消订阅</summary><p>iPhone：“设置”应用 → 你的姓名 → 订阅。Android：Google Play → 个人资料 → 付款和订阅 → 订阅。请在续订前至少 24 小时取消。</p></details>"
+  },
+  "terms": {
+    "title": "使用条款 – Photocells",
+    "desc": "Photocells 应用及 Photocells Pro 订阅的使用条款。",
+    "h1": "使用条款",
+    "body": "<p>使用 Photocells 即表示你同意本条款。在 iPhone 上，Apple 的<a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">《许可应用程序标准最终用户许可协议》</a>同样适用。</p>\n<h2>服务</h2><p>Photocells 使用设备摄像头测量时间，并通过我们的服务器同步训练。成绩取决于设备、摆放位置、光线和场景；仅供训练使用，未获得正式比赛认证。我们会尽力保持服务可用，但无法保证服务不会中断。</p>\n<h2>Photocells Pro</h2><p>创建训练需要自动续期订阅（按月或按年），新订阅用户可免费试用 7 天。确认购买时（或试用结束时），费用将从你的 Apple 账户或 Google Play 账户中扣除。除非在当前周期结束前至少 24 小时取消，否则订阅将自动续期。你可以在 App Store 或 Google Play 账户设置中管理或取消订阅。退款由 Apple 或 Google 按其政策处理。</p>\n<h2>合理使用</h2><p>请勿滥用本服务，请勿干扰其他用户的训练，也不要试图访问不属于你的数据。</p>\n<h2>责任</h2><p>本应用按“现状”提供。在法律允许的范围内，我们不对间接损失或基于测量成绩做出的决定承担责任。</p>\n<h2>变更与联系方式</h2><p>我们可能会更新本条款；当前版本始终发布在本页面。如有疑问：<a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>。最后更新：2026年11月11日。</p>"
+  },
+  "lang_label": "语言",
+  "price_shown": false
+}

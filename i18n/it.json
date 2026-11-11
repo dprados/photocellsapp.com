@@ -1,0 +1,182 @@
+{
+  "lang_name": "Italiano",
+  "title": "Photocells · Il tuo telefono è una fotocellula",
+  "desc": "Cronometraggio automatico al millesimo con la fotocamera del telefono. iPhone e Android nella stessa sessione, senza comprare fotocellule.",
+  "eyebrow": "Cronometraggio con la fotocamera del telefono",
+  "h1": [
+    "Il tuo telefono",
+    "è una",
+    "fotocellula."
+  ],
+  "lead": "Photocells rileva l’istante in cui l’atleta taglia la linea e registra il tempo al millesimo di secondo. Niente cronometro, niente tocchi sullo schermo e nemmeno un cavo da comprare.",
+  "badge_as": "img/badges/app-store-en.svg",
+  "badge_gp": "img/badges/google-play-en.png",
+  "as_alt": "Scarica su App Store",
+  "gp_alt": "Disponibile su Google Play",
+  "soon": "Prossimamente",
+  "under_cta": "Unirsi a una sessione è gratis · Pro con 7 giorni di prova gratuita",
+  "demo_pill": "RILEVATORE ATTIVO",
+  "demo_label": "ULTIMO GIRO",
+  "demo_cut": "PASSAGGIO",
+  "stats": [
+    [
+      "0 €",
+      "di hardware nuovo"
+    ],
+    [
+      "1/1000 s",
+      "di risoluzione"
+    ],
+    [
+      "∞",
+      "fotocellule per sessione"
+    ],
+    [
+      "iOS + Android",
+      "nella stessa sessione"
+    ]
+  ],
+  "own_k": "Un telefono ce l’hanno tutti",
+  "own_h": "L’hardware ce l’hai già in tasca.",
+  "own_p": "Ogni allenatore, ogni atleta e ogni genitore sugli spalti ha un telefono con una fotocamera velocissima. Photocells lo trasforma in una fotocellula: lo appoggi a bordo pista, allinei la linea rossa con il punto di passaggio e via.",
+  "own_points": [
+    "Una fotocamera a 60–120 fotogrammi al secondo",
+    "Uno schermo per vedere ogni tempo all’istante",
+    "Una connessione per sincronizzare tutte le fotocellule"
+  ],
+  "money_k": "Risparmio vero",
+  "money_h": "Fotocellule professionali senza pagare fotocellule.",
+  "money_p": "Un sistema di fotocellule wireless costa centinaia o migliaia di euro per ogni coppia, e ogni fotocellula in più è un’altra spesa. Con Photocells, ogni telefono che avete è una fotocellula in più.",
+  "old_t": "Fotocellule tradizionali",
+  "old": [
+    "Centinaia o migliaia di euro per ogni coppia",
+    "Treppiedi, catarifrangenti, batterie e valigetta",
+    "Ogni fotocellula in più, un’altra spesa",
+    "Si rompe un pezzo, sessione annullata"
+  ],
+  "new_t": "Photocells",
+  "new": [
+    "I telefoni che avete già",
+    "Pro: 5,99 €/mese o 44,99 €/anno, con 7 giorni gratis",
+    "Unirsi a una sessione è gratis",
+    "Un’altra fotocellula? Un altro telefono"
+  ],
+  "bar_old": "Kit tradizionale",
+  "bar_new": "Photocells Pro · 1 anno",
+  "bar_old_v": "centinaia o migliaia di €",
+  "bar_new_v": "44,99 €",
+  "mix_k": "Multipiattaforma",
+  "mix_h": "iPhone e Android nella stessa gara.",
+  "mix_p": "Crea la sessione su un iPhone e unisciti da un Android, o viceversa. Con un codice di 4 cifre ogni telefono diventa una fotocellula: partenza, intertempi e arrivo, sincronizzati in tempo reale.",
+  "gates": [
+    [
+      "PARTENZA",
+      "iPhone",
+      "0:00,000"
+    ],
+    [
+      "30 M",
+      "Android",
+      "0:03,940"
+    ],
+    [
+      "ARRIVO",
+      "iPhone",
+      "0:07,286"
+    ]
+  ],
+  "photo_k": "Una foto di ogni passaggio",
+  "photo_h": "Guarda l’istante esatto del passaggio.",
+  "photo_p": "A ogni passaggio, Photocells ti mostra il fotogramma con la linea segnata. Capisci subito se era l’atleta… o un’ombra. Le foto restano solo sul tuo telefono, finché sono aperti la sessione e il suo riepilogo.",
+  "how_k": "Come funziona",
+  "how_h": "Tre passi e si corre.",
+  "how": [
+    [
+      "Posiziona",
+      "Appoggia il telefono a bordo pista, all’altezza del fianco, e allinea la linea rossa con il punto di passaggio."
+    ],
+    [
+      "Avvia",
+      "Conto alla rovescia con segnali acustici o partenza al primo passaggio. Il rilevatore si arma da solo."
+    ],
+    [
+      "Corri",
+      "Ogni passaggio viene registrato al millesimo: giri, intertempi, miglior tempo e velocità."
+    ]
+  ],
+  "feat_k": "Tutto quello che ti serve",
+  "feat_h": "Pensata per allenarsi, non per configurare.",
+  "feats": [
+    [
+      "Circolare o lineare",
+      "Giri con un solo telefono, o percorsi da A a B con più telefoni."
+    ],
+    [
+      "Velocità",
+      "Inserisci la distanza e vedi km/h, mph o m/s per giro e per segmento."
+    ],
+    [
+      "Storico per atleta",
+      "Aggiungi atleti e note, filtra e segui i progressi."
+    ],
+    [
+      "CSV e PDF",
+      "Esporta ogni sessione per il tuo foglio di calcolo o per la società."
+    ],
+    [
+      "Copia su iCloud",
+      "Il tuo storico, al sicuro nel tuo account. Niente sui nostri server."
+    ],
+    [
+      "Privata",
+      "Niente account, niente pubblicità, niente tracciamento. L’immagine viene analizzata sul telefono."
+    ]
+  ],
+  "shots_k": "L’app",
+  "shots_h": "Fatta per la pista.",
+  "price_k": "Prezzi",
+  "price_h": "Meno di un paio di scarpe da corsa. All’anno.",
+  "plans": [
+    [
+      "Mensile",
+      "5,99 €",
+      "/mese"
+    ],
+    [
+      "Annuale",
+      "44,99 €",
+      "/anno"
+    ]
+  ],
+  "price_note": "7 giorni gratis con entrambi i piani. Unirsi a una sessione è gratis per tutti i dispositivi.",
+  "save": "Sconto 40%",
+  "final_h": "Tira fuori il telefono. Inizia a cronometrare.",
+  "nav": [
+    "Assistenza",
+    "Privacy",
+    "Termini"
+  ],
+  "foot": "Realizzato da Diego Prados, sviluppatore indipendente. © 2026 Diego Prados. Apple, iPhone e App Store sono marchi di Apple Inc. Google Play e il logo Google Play sono marchi di Google LLC.",
+  "shot_lang": "it",
+  "page_foot": "Realizzato da Diego Prados, sviluppatore indipendente. © 2026 Diego Prados. Apple, iPhone e App Store sono marchi di Apple Inc. Google Play è un marchio di Google LLC.",
+  "privacy": {
+    "title": "Informativa sulla privacy – Photocells",
+    "desc": "Cosa fa Photocells con i tuoi dati: l’immagine della fotocamera non esce mai dal dispositivo, niente account, niente pubblicità, niente tracciamento.",
+    "h1": "Informativa sulla privacy",
+    "body": "<p class=\"lead\">In breve: Photocells non ha account, pubblicità né tracciamento. L’immagine della fotocamera non lascia mai il tuo telefono.</p>\n<h2>Fotocamera</h2><p>Photocells usa la fotocamera per rilevare quando qualcuno taglia la linea. Le immagini vengono analizzate in memoria sul tuo dispositivo. Per permetterti di controllare ogni passaggio, l’app conserva in memoria il fotogramma di ogni passaggio finché sono aperti la sessione e il suo riepilogo, e lo elimina quando li chiudi. Nessuna foto o video viene salvato sul tuo dispositivo, nello storico o su iCloud, né inviato altrove.</p>\n<h2>Sessioni e il nostro server</h2><p>Per sincronizzare i telefoni di una sessione, Photocells usa il nostro server (photocellsapp.com). Il server conserva ciò che serve al funzionamento della sessione: il tipo, le distanze che inserisci, i dispositivi partecipanti e i tempi di passaggio. I dispositivi sono identificati da un token casuale creato dall’app, non collegato al tuo nome, alla tua email, al tuo Apple Account o al tuo account Google. I dati viaggiano cifrati (HTTPS/WSS). Puoi chiederci di eliminare le sessioni del tuo dispositivo scrivendo a <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>.</p>\n<h2>Atleti e commenti</h2><p>I nomi degli atleti e i commenti che aggiungi a una sessione vengono salvati solo sul tuo dispositivo e non vengono mai inviati al nostro server. Su iPhone, il tuo storico viene copiato nel tuo database privato di iCloud (iCloud di Apple, nel tuo account), così è disponibile sugli altri tuoi dispositivi e dopo una reinstallazione; puoi disattivarlo in Impostazioni di iOS → il tuo nome → iCloud. Su Android, è incluso nel backup del telefono se hai attivato i backup.</p>\n<h2>Acquisti</h2><p>Gli abbonamenti sono gestiti da Apple (App Store) o Google (Google Play). Non riceviamo i tuoi dati di pagamento; l’app verifica solo se c’è un abbonamento attivo.</p>\n<h2>Cosa non facciamo</h2><p>Nessun SDK di analisi o pubblicità, nessun tracciamento tra app o siti web, nessuna posizione, nessun contatto, nessuna vendita di dati.</p>\n<h2>Minori</h2><p>Photocells è uno strumento sportivo per tutti e non raccoglie consapevolmente dati personali di minori.</p>\n<h2>Contatti</h2><p>Diego Prados, sviluppatore indipendente · <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Ultimo aggiornamento: 11 novembre 2026.</p>"
+  },
+  "support": {
+    "title": "Assistenza – Photocells",
+    "desc": "Aiuto con Photocells: posizionare la fotocamera, sessioni con più telefoni, abbonamento e ripristino degli acquisti.",
+    "h1": "Assistenza",
+    "body": "<p class=\"lead\">Non trovi la risposta? Scrivi a <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Ti risponde una persona vera.</p>\n<h2>Tempi affidabili</h2>\n<details><summary>Dove metto il telefono?</summary><p>A lato della corsia, se possibile all’altezza del fianco, rivolto verso l’altro lato della pista. Allinea la linea rossa con il punto di passaggio. Meglio uno sfondo fermo (evita alberi che si muovono col vento o traffico subito dietro la linea).</p></details>\n<details><summary>Sole e ombra</summary><p>L’esposizione si blocca all’avvio della sessione. Evita di mettere la linea dove la luce cambia molto (da sole pieno a ombra fitta). Prima che l’atleta parta, controlla che l’indicatore in alto nella sessione mostri RILEVATORE ATTIVO in verde.</p></details>\n<details><summary>Un passaggio non è stato registrato o ne è comparso uno in più</summary><p>Nelle impostazioni della sessione usa «Scarta ultimo passaggio» per toglierne uno in più. Controlla che il telefono sia stabile e che l’indicatore sia verde (RILEVATORE ATTIVO) prima che arrivi l’atleta.</p></details>\n<h2>Sessioni</h2>\n<details><summary>Come funzionano più telefoni insieme?</summary><p>Crea la sessione su un telefono e condividi il codice di 4 cifre. Gli altri toccano UNISCITI, inseriscono il codice e scelgono la loro posizione. I tempi si sincronizzano tramite il nostro server, quindi ogni telefono ha bisogno di una connessione a internet.</p></details>\n<details><summary>Atleti e commenti</summary><p>Aggiungi gli atleti quando crei la sessione o in seguito dal suo riepilogo, separati da virgole. Nello Storico, tocca un atleta per vedere solo le sue sessioni. Queste informazioni restano sui tuoi dispositivi.</p></details>\n<h2>Abbonamento</h2>\n<details><summary>Cosa è gratis?</summary><p>Unirsi a una sessione è gratis. Per creare sessioni serve Photocells Pro (7 giorni di prova gratuita, poi mensile o annuale).</p></details>\n<details><summary>Ripristinare un acquisto</summary><p>Apri le Impostazioni nell’app e tocca Ripristina, con lo stesso Apple Account o account Google con cui ti sei abbonato.</p></details>\n<details><summary>Gestire o annullare</summary><p>iPhone: app Impostazioni → il tuo nome → Abbonamenti. Android: Google Play → Profilo → Pagamenti e abbonamenti → Abbonamenti. Annulla almeno 24 ore prima del rinnovo.</p></details>"
+  },
+  "terms": {
+    "title": "Termini di utilizzo – Photocells",
+    "desc": "Termini di utilizzo dell’app Photocells e dell’abbonamento Photocells Pro.",
+    "h1": "Termini di utilizzo",
+    "body": "<p>Usando Photocells accetti questi termini. Su iPhone si applica anche il <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Contratto di licenza standard per l’utente finale delle applicazioni concesse in licenza</a> di Apple.</p>\n<h2>Il servizio</h2><p>Photocells misura i tempi con la fotocamera del dispositivo e sincronizza le sessioni tramite il nostro server. I tempi dipendono dal dispositivo, dalla sua posizione, dalla luce e dalla scena; sono pensati per l’allenamento e non sono omologati per competizioni ufficiali. Cerchiamo di mantenere il servizio disponibile, ma non possiamo garantire che funzioni senza interruzioni.</p>\n<h2>Photocells Pro</h2><p>Per creare sessioni serve un abbonamento a rinnovo automatico (mensile o annuale) con 7 giorni di prova gratuita per i nuovi abbonati. Il pagamento viene addebitato sul tuo Apple Account o account Google Play alla conferma dell’acquisto (o al termine della prova). L’abbonamento si rinnova automaticamente, a meno che non venga annullato almeno 24 ore prima della fine del periodo in corso. Puoi gestirlo o annullarlo nelle impostazioni del tuo account App Store o Google Play. I rimborsi sono gestiti da Apple o Google secondo le loro politiche.</p>\n<h2>Uso consentito</h2><p>Non fare un uso improprio del servizio, non interferire con le sessioni di altri utenti e non cercare di accedere a dati che non sono tuoi.</p>\n<h2>Responsabilità</h2><p>L’app è fornita «così com’è». Nei limiti consentiti dalla legge, non rispondiamo di danni indiretti né di decisioni prese sulla base dei tempi misurati.</p>\n<h2>Modifiche e contatti</h2><p>Possiamo aggiornare questi termini; la versione in vigore è sempre su questa pagina. Domande: <a href=\"mailto:dpappssupport@gmail.com\">dpappssupport@gmail.com</a>. Ultimo aggiornamento: 11 novembre 2026.</p>"
+  },
+  "lang_label": "Lingua",
+  "price_shown": true
+}
