@@ -1,8 +1,6 @@
 # photocellsapp.com
 
-Website of Photocells, served by GitHub Pages at https://www.photocellsapp.com (the apex photocellsapp.com is the API server, which redirects browser page visits here).
+Website of Photocells, served by GitHub Pages at https://www.photocellsapp.com. The apex photocellsapp.com is the API server (Hetzner); it redirects browser page visits here.
 
-Generated: edit `TodaysApp/_sites/dprados.github.io/photocells/build_pages.py` / `landing.py`, then
-
-    cd TodaysApp/_sites/dprados.github.io/photocells
-    SITE_BASE=https://www.photocellsapp.com/ SITE_OUT=../../photocellsapp.com python3 build_pages.py
+Edit `landing.py` (home page) or `build_pages.py` (privacy, support, terms), then run `python3 build_pages.py` and push.
+Images in `img/` (screenshots in `img/shots/`), hero video in `media/`.
